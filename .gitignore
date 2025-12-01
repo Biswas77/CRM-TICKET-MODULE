@@ -1,0 +1,9 @@
+/storage/
+/.env
+/vendor/
+/node_modules/
+/*.log
+.DS_Store
+thumbs.db
+/storage/
+.env
